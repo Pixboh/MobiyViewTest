@@ -1,0 +1,1399 @@
+[
+  {
+    "image": {
+      "file": {
+        "uri": "http://virginia.mobyview.eu/api/entity_file/183",
+        "id": "183",
+        "resource": "file",
+        "uri_full": "http://virginia.mobyview.eu/sites/virginia.mobyview.eu/files/011a.JPG",
+        "previews": []
+      }
+    },
+    "address": "1636 Parish Rd, Virginia Beach, VA 23455",
+    "location_area": {
+      "tid": "1",
+      "vid": "2",
+      "name": "Ocean Front",
+      "description": "",
+      "format": "filtered_html",
+      "weight": "0",
+      "vocabulary_machine_name": "location_area"
+    },
+    "level": {
+      "tid": "3",
+      "vid": "3",
+      "name": "Free Listing",
+      "description": "",
+      "format": "filtered_html",
+      "weight": "0",
+      "vocabulary_machine_name": "level",
+      "field_rank": {
+        "und": [
+          {
+            "value": "1"
+          }
+        ]
+      }
+    },
+    "geo": {
+      "latlon": "36.893757000000,-76.112417000000"
+    },
+    "description": {
+      "value": "Test description",
+      "summary": ""
+    },
+    "opening_days": "T-Sun",
+    "opening_hours": "T-Sat 10-4, Sun 12-4",
+    "telephone": "(757) 460-7588",
+    "price_range": "$3-$5",
+    "kids_friendly": true,
+    "discount_image": {
+      "file": {
+        "uri": "http://virginia.mobyview.eu/api/entity_file/185",
+        "id": "185",
+        "resource": "file",
+        "uri_full": "http://virginia.mobyview.eu/sites/virginia.mobyview.eu/files/011a_1.JPG",
+        "previews": []
+      }
+    },
+    "attraction_category": {
+      "tid": "162",
+      "vid": "6",
+      "name": "Museum",
+      "description": null,
+      "format": null,
+      "weight": "8",
+      "vocabulary_machine_name": "attraction_taxonomy"
+    },
+    "location_attraction": {
+      "tid": "20",
+      "vid": "9",
+      "name": "A short drive",
+      "description": "",
+      "format": "plain_text",
+      "weight": "0",
+      "vocabulary_machine_name": "location_attraction"
+    },
+    "direct_links": [],
+    "image_logo": {
+      "file": {
+        "uri": "http://virginia.mobyview.eu/api/entity_file/184",
+        "id": "184",
+        "resource": "file",
+        "uri_full": "http://virginia.mobyview.eu/sites/virginia.mobyview.eu/files/011a_0.JPG",
+        "previews": []
+      }
+    },
+    "gk_export": true,
+    "id": "561",
+    "type": "attraction",
+    "title": "Adam Thoroughgood House",
+    "created": "2014-05-13T11:31:01-04:00",
+    "changed": "2015-04-14T12:31:31-04:00",
+    "language": "und"
+  },
+  {
+    "image": [],
+    "address": "300 Winston Salem Avenue Virginia Beach, VA 23451",
+    "location_area": {
+      "tid": "1",
+      "vid": "2",
+      "name": "Ocean Front",
+      "description": "",
+      "format": "filtered_html",
+      "weight": "0",
+      "vocabulary_machine_name": "location_area"
+    },
+    "level": {
+      "tid": "3",
+      "vid": "3",
+      "name": "Free Listing",
+      "description": "",
+      "format": "filtered_html",
+      "weight": "0",
+      "vocabulary_machine_name": "level",
+      "field_rank": {
+        "und": [
+          {
+            "value": "1"
+          }
+        ]
+      }
+    },
+    "geo": {
+      "latlon": "36.832082000000,-75.974112000000"
+    },
+    "description": [],
+    "opening_days": "Daily",
+    "opening_hours": "9am-dark",
+    "telephone": "(757) 422-UFLY (8359)",
+    "price_range": null,
+    "kids_friendly": true,
+    "discount_image": [],
+    "attraction_category": {
+      "tid": "145",
+      "vid": "6",
+      "name": "Amusement",
+      "description": null,
+      "format": null,
+      "weight": "39",
+      "vocabulary_machine_name": "attraction_taxonomy"
+    },
+    "location_attraction": {
+      "tid": "19",
+      "vid": "9",
+      "name": "Near the beach",
+      "description": "",
+      "format": "plain_text",
+      "weight": "0",
+      "vocabulary_machine_name": "location_attraction"
+    },
+    "direct_links": [],
+    "image_logo": [],
+    "gk_export": true,
+    "id": "581",
+    "type": "attraction",
+    "title": "Adventure Parasail",
+    "created": "2014-05-18T11:49:05-04:00",
+    "changed": "2015-04-14T12:31:33-04:00",
+    "language": "und"
+  },
+  {
+    "image": [],
+    "address": "801 General Booth Boulevard Virginia Beach, Virginia 23451 ",
+    "location_area": {
+      "tid": "1",
+      "vid": "2",
+      "name": "Ocean Front",
+      "description": "",
+      "format": "filtered_html",
+      "weight": "0",
+      "vocabulary_machine_name": "location_area"
+    },
+    "level": {
+      "tid": "3",
+      "vid": "3",
+      "name": "Free Listing",
+      "description": "",
+      "format": "filtered_html",
+      "weight": "0",
+      "vocabulary_machine_name": "level",
+      "field_rank": {
+        "und": [
+          {
+            "value": "1"
+          }
+        ]
+      }
+    },
+    "geo": {
+      "latlon": "36.815226000000,-75.988901000000"
+    },
+    "description": [],
+    "opening_days": "M-Sun",
+    "opening_hours": "9am-11pm",
+    "telephone": "(757) 385-4947",
+    "price_range": "$36-$51",
+    "kids_friendly": true,
+    "discount_image": [],
+    "attraction_category": {
+      "tid": "157",
+      "vid": "6",
+      "name": "Aquarium",
+      "description": null,
+      "format": null,
+      "weight": "27",
+      "vocabulary_machine_name": "attraction_taxonomy"
+    },
+    "location_attraction": {
+      "tid": "19",
+      "vid": "9",
+      "name": "Near the beach",
+      "description": "",
+      "format": "plain_text",
+      "weight": "0",
+      "vocabulary_machine_name": "location_attraction"
+    },
+    "direct_links": [],
+    "image_logo": [],
+    "gk_export": true,
+    "id": "583",
+    "type": "attraction",
+    "title": "Adventure Park at Virginia Aquarium",
+    "created": "2014-05-18T12:01:18-04:00",
+    "changed": "2015-04-14T12:31:33-04:00",
+    "language": "und"
+  },
+  {
+    "image": [],
+    "address": "227 Mediterranean Avenue, Virginia Beach, VA",
+    "location_area": {
+      "tid": "1",
+      "vid": "2",
+      "name": "Ocean Front",
+      "description": "",
+      "format": "filtered_html",
+      "weight": "0",
+      "vocabulary_machine_name": "location_area"
+    },
+    "level": {
+      "tid": "3",
+      "vid": "3",
+      "name": "Free Listing",
+      "description": "",
+      "format": "filtered_html",
+      "weight": "0",
+      "vocabulary_machine_name": "level",
+      "field_rank": {
+        "und": [
+          {
+            "value": "1"
+          }
+        ]
+      }
+    },
+    "geo": {
+      "latlon": "36.830825000000,-75.977373000000"
+    },
+    "description": [],
+    "opening_days": "Daily",
+    "opening_hours": "Every hour 7 days a week",
+    "telephone": "757-428-1240",
+    "price_range": "$75-$215",
+    "kids_friendly": true,
+    "discount_image": [],
+    "attraction_category": {
+      "tid": "145",
+      "vid": "6",
+      "name": "Amusement",
+      "description": null,
+      "format": null,
+      "weight": "39",
+      "vocabulary_machine_name": "attraction_taxonomy"
+    },
+    "location_attraction": {
+      "tid": "19",
+      "vid": "9",
+      "name": "Near the beach",
+      "description": "",
+      "format": "plain_text",
+      "weight": "0",
+      "vocabulary_machine_name": "location_attraction"
+    },
+    "direct_links": [],
+    "image_logo": [],
+    "gk_export": true,
+    "id": "584",
+    "type": "attraction",
+    "title": "Air America Parasail",
+    "created": "2014-05-18T12:06:02-04:00",
+    "changed": "2015-04-14T12:31:33-04:00",
+    "language": "und"
+  },
+  {
+    "image": [],
+    "address": "206 Swamp Fox Rd, Virginia Beach, VA 22314",
+    "location_area": {
+      "tid": "1",
+      "vid": "2",
+      "name": "Ocean Front",
+      "description": "",
+      "format": "filtered_html",
+      "weight": "0",
+      "vocabulary_machine_name": "location_area"
+    },
+    "level": {
+      "tid": "3",
+      "vid": "3",
+      "name": "Free Listing",
+      "description": "",
+      "format": "filtered_html",
+      "weight": "0",
+      "vocabulary_machine_name": "level",
+      "field_rank": {
+        "und": [
+          {
+            "value": "1"
+          }
+        ]
+      }
+    },
+    "geo": {
+      "latlon": "38.799972000000,-77.050690000000"
+    },
+    "description": [],
+    "opening_days": "M-Sun",
+    "opening_hours": "M-Sun 10a-12a",
+    "telephone": "(888) 262-4386",
+    "price_range": "$11",
+    "kids_friendly": true,
+    "discount_image": [],
+    "attraction_category": {
+      "tid": "149",
+      "vid": "6",
+      "name": "Movies",
+      "description": null,
+      "format": null,
+      "weight": "7",
+      "vocabulary_machine_name": "attraction_taxonomy"
+    },
+    "location_attraction": {
+      "tid": "20",
+      "vid": "9",
+      "name": "A short drive",
+      "description": "",
+      "format": "plain_text",
+      "weight": "0",
+      "vocabulary_machine_name": "location_attraction"
+    },
+    "direct_links": [],
+    "image_logo": [],
+    "gk_export": true,
+    "id": "525",
+    "type": "attraction",
+    "title": "AMC Hoffman Center 22",
+    "created": "2014-05-13T10:09:48-04:00",
+    "changed": "2015-04-14T12:31:33-04:00",
+    "language": "und"
+  },
+  {
+    "image": [],
+    "address": "2809 Atlantic Ave Virginia Beach, VA 23451",
+    "location_area": {
+      "tid": "1",
+      "vid": "2",
+      "name": "Ocean Front",
+      "description": "",
+      "format": "filtered_html",
+      "weight": "0",
+      "vocabulary_machine_name": "location_area"
+    },
+    "level": {
+      "tid": "3",
+      "vid": "3",
+      "name": "Free Listing",
+      "description": "",
+      "format": "filtered_html",
+      "weight": "0",
+      "vocabulary_machine_name": "level",
+      "field_rank": {
+        "und": [
+          {
+            "value": "1"
+          }
+        ]
+      }
+    },
+    "geo": {
+      "latlon": "36.856731000000,-75.977130000000"
+    },
+    "description": [],
+    "opening_days": "Sat",
+    "opening_hours": "Saturdays 6:30 pm",
+    "telephone": "(757) 587-3883",
+    "price_range": "$25-$36.95",
+    "kids_friendly": true,
+    "discount_image": [],
+    "attraction_category": {
+      "tid": "156",
+      "vid": "6",
+      "name": "Dinner Theater",
+      "description": null,
+      "format": null,
+      "weight": "38",
+      "vocabulary_machine_name": "attraction_taxonomy"
+    },
+    "location_attraction": {
+      "tid": "19",
+      "vid": "9",
+      "name": "Near the beach",
+      "description": "",
+      "format": "plain_text",
+      "weight": "0",
+      "vocabulary_machine_name": "location_attraction"
+    },
+    "direct_links": [],
+    "image_logo": [],
+    "gk_export": true,
+    "id": "538",
+    "type": "attraction",
+    "title": "Angelos Murder Mystery Dinner Theater",
+    "created": "2014-05-13T10:30:38-04:00",
+    "changed": "2015-05-22T05:48:17-04:00",
+    "language": "und"
+  },
+  {
+    "image": [],
+    "address": "1307 Atlantic Ave., Virginia Beach VA 23451",
+    "location_area": {
+      "tid": "1",
+      "vid": "2",
+      "name": "Ocean Front",
+      "description": "",
+      "format": "filtered_html",
+      "weight": "0",
+      "vocabulary_machine_name": "location_area"
+    },
+    "level": {
+      "tid": "3",
+      "vid": "3",
+      "name": "Free Listing",
+      "description": "",
+      "format": "filtered_html",
+      "weight": "0",
+      "vocabulary_machine_name": "level",
+      "field_rank": {
+        "und": [
+          {
+            "value": "1"
+          }
+        ]
+      }
+    },
+    "geo": {
+      "latlon": "36.842641000000,-75.972848000000"
+    },
+    "description": [],
+    "opening_days": "Daily",
+    "opening_hours": "7am-midnight",
+    "telephone": "757-227-4558",
+    "price_range": "$6.99-$22.99",
+    "kids_friendly": true,
+    "discount_image": [],
+    "attraction_category": {
+      "tid": "171",
+      "vid": "6",
+      "name": "Bike Rentals",
+      "description": null,
+      "format": null,
+      "weight": "20",
+      "vocabulary_machine_name": "attraction_taxonomy"
+    },
+    "location_attraction": {
+      "tid": "19",
+      "vid": "9",
+      "name": "Near the beach",
+      "description": "",
+      "format": "plain_text",
+      "weight": "0",
+      "vocabulary_machine_name": "location_attraction"
+    },
+    "direct_links": [],
+    "image_logo": [],
+    "gk_export": true,
+    "id": "585",
+    "type": "attraction",
+    "title": "Atlantic Food Mart",
+    "created": "2014-05-18T12:12:09-04:00",
+    "changed": "2015-04-14T12:31:33-04:00",
+    "language": "und"
+  },
+  {
+    "image": {
+      "file": {
+        "uri": "http://virginia.mobyview.eu/api/entity_file/990",
+        "id": "990",
+        "resource": "file",
+        "uri_full": "http://virginia.mobyview.eu/sites/virginia.mobyview.eu/files/image1.jpg",
+        "previews": []
+      }
+    },
+    "address": "233 15th St, Virginia Beach, VA 23451",
+    "location_area": {
+      "tid": "1",
+      "vid": "2",
+      "name": "Ocean Front",
+      "description": "",
+      "format": "filtered_html",
+      "weight": "0",
+      "vocabulary_machine_name": "location_area"
+    },
+    "level": {
+      "tid": "18",
+      "vid": "3",
+      "name": "Upgrade 4",
+      "description": "",
+      "format": "plain_text",
+      "weight": "4",
+      "vocabulary_machine_name": "level",
+      "field_rank": {
+        "und": [
+          {
+            "value": "5"
+          }
+        ]
+      }
+    },
+    "geo": {
+      "latlon": "36.843379000000,-75.974155000000"
+    },
+    "description": {
+      "value": "Calling all families! Are you ready to experience FUN? If so then Atlantic Fun Park located in Virginia Beach, Virginia is exactly what you're looking for! We are now OPEN for the Summer of 2014! Come experience 12 Midway Games, 16 Family Fun Rides, and all the Fun Foods you can handle!\r\n\r\nWe offer some of the most thrill seeking rides around with the most famous of them including the Gravitron, the Slingshot, and the Sea Dragon! Test your wits against these rides that are sure to leave you with one of the biggest adrenaline rushes of your life. You wont be able to resist another ride ever again!\r\n\r\nOn top of all the rides we also offer a wide variety of kiddy and family rides such as the Ferris Wheel (biggest in Virginia Beach!) and the Kiddie Train. Atlantic Fun Park in Virginia Beach is family safe and friendly and great for all ages. Come check us out!",
+      "summary": ""
+    },
+    "opening_days": "Weekends",
+    "opening_hours": "Seasonal (Fall) F 5p, Sat 12n Sun 12n",
+    "telephone": "(757) 422-0467",
+    "price_range": "$1-$55",
+    "kids_friendly": true,
+    "discount_image": {
+      "file": {
+        "uri": "http://virginia.mobyview.eu/api/entity_file/993",
+        "id": "993",
+        "resource": "file",
+        "uri_full": "http://virginia.mobyview.eu/sites/virginia.mobyview.eu/files/0.AtlanticFunParkVB12.gif",
+        "previews": []
+      }
+    },
+    "attraction_category": {
+      "tid": "144",
+      "vid": "6",
+      "name": "Amusement Park",
+      "description": null,
+      "format": null,
+      "weight": "24",
+      "vocabulary_machine_name": "attraction_taxonomy"
+    },
+    "location_attraction": {
+      "tid": "19",
+      "vid": "9",
+      "name": "Near the beach",
+      "description": "",
+      "format": "plain_text",
+      "weight": "0",
+      "vocabulary_machine_name": "location_attraction"
+    },
+    "direct_links": [
+      "http://www.atlanticfunpark.com/"
+    ],
+    "image_logo": [],
+    "gk_export": true,
+    "id": "530",
+    "type": "attraction",
+    "title": "Atlantic Fun Park",
+    "created": "2014-05-13T10:18:01-04:00",
+    "changed": "2015-04-14T12:31:33-04:00",
+    "language": "und"
+  },
+  {
+    "image": [],
+    "address": "1113 Atlantic Ave, Virginia Beach, VA 23451",
+    "location_area": {
+      "tid": "1",
+      "vid": "2",
+      "name": "Ocean Front",
+      "description": "",
+      "format": "filtered_html",
+      "weight": "0",
+      "vocabulary_machine_name": "location_area"
+    },
+    "level": {
+      "tid": "3",
+      "vid": "3",
+      "name": "Free Listing",
+      "description": "",
+      "format": "filtered_html",
+      "weight": "0",
+      "vocabulary_machine_name": "level",
+      "field_rank": {
+        "und": [
+          {
+            "value": "1"
+          }
+        ]
+      }
+    },
+    "geo": {
+      "latlon": "36.840477000000,-75.972472000000"
+    },
+    "description": [],
+    "opening_days": "T-Sun",
+    "opening_hours": "Tu-Sat 10-5 & Sun 12-5",
+    "telephone": "(757) 437-8432",
+    "price_range": "Membership",
+    "kids_friendly": true,
+    "discount_image": [],
+    "attraction_category": {
+      "tid": "162",
+      "vid": "6",
+      "name": "Museum",
+      "description": null,
+      "format": null,
+      "weight": "8",
+      "vocabulary_machine_name": "attraction_taxonomy"
+    },
+    "location_attraction": {
+      "tid": "19",
+      "vid": "9",
+      "name": "Near the beach",
+      "description": "",
+      "format": "plain_text",
+      "weight": "0",
+      "vocabulary_machine_name": "location_attraction"
+    },
+    "direct_links": [],
+    "image_logo": [],
+    "gk_export": true,
+    "id": "566",
+    "type": "attraction",
+    "title": "Atlantic Wildfowl Heritage Museum",
+    "created": "2014-05-13T11:36:47-04:00",
+    "changed": "2015-04-14T12:31:33-04:00",
+    "language": "und"
+  },
+  {
+    "image": [],
+    "address": "614 Norfolk Avenue Virginia Beach, VA. 23451",
+    "location_area": {
+      "tid": "1",
+      "vid": "2",
+      "name": "Ocean Front",
+      "description": "",
+      "format": "filtered_html",
+      "weight": "0",
+      "vocabulary_machine_name": "location_area"
+    },
+    "level": {
+      "tid": "3",
+      "vid": "3",
+      "name": "Free Listing",
+      "description": "",
+      "format": "filtered_html",
+      "weight": "0",
+      "vocabulary_machine_name": "level",
+      "field_rank": {
+        "und": [
+          {
+            "value": "1"
+          }
+        ]
+      }
+    },
+    "geo": {
+      "latlon": "36.837603000000,-75.981056000000"
+    },
+    "description": [],
+    "opening_days": "W-Sun",
+    "opening_hours": "W-R 3-10p, F & Sa 12p-12a, Su 12p-8p",
+    "telephone": "(757) 531-7750",
+    "price_range": null,
+    "kids_friendly": true,
+    "discount_image": [],
+    "attraction_category": {
+      "tid": "172",
+      "vid": "6",
+      "name": "Brewery",
+      "description": null,
+      "format": null,
+      "weight": "29",
+      "vocabulary_machine_name": "attraction_taxonomy"
+    },
+    "location_attraction": {
+      "tid": "19",
+      "vid": "9",
+      "name": "Near the beach",
+      "description": "",
+      "format": "plain_text",
+      "weight": "0",
+      "vocabulary_machine_name": "location_attraction"
+    },
+    "direct_links": [],
+    "image_logo": [],
+    "gk_export": true,
+    "id": "586",
+    "type": "attraction",
+    "title": "Back Bay Brewing Company",
+    "created": "2014-05-18T12:20:32-04:00",
+    "changed": "2015-04-14T12:31:33-04:00",
+    "language": "und"
+  },
+  {
+    "image": [],
+    "address": "4005 Sandpiper Rd, Virginia Beach, VA 23456-4325",
+    "location_area": {
+      "tid": "1",
+      "vid": "2",
+      "name": "Ocean Front",
+      "description": "",
+      "format": "filtered_html",
+      "weight": "0",
+      "vocabulary_machine_name": "location_area"
+    },
+    "level": {
+      "tid": "3",
+      "vid": "3",
+      "name": "Free Listing",
+      "description": "",
+      "format": "filtered_html",
+      "weight": "0",
+      "vocabulary_machine_name": "level",
+      "field_rank": {
+        "und": [
+          {
+            "value": "1"
+          }
+        ]
+      }
+    },
+    "geo": {
+      "latlon": "36.687954000000,-75.921842000000"
+    },
+    "description": [],
+    "opening_days": "M-Sun",
+    "opening_hours": "Daylight",
+    "telephone": "(757) 301-7329",
+    "price_range": "$2-$15",
+    "kids_friendly": true,
+    "discount_image": [],
+    "attraction_category": {
+      "tid": "165",
+      "vid": "6",
+      "name": "Wildlife Refuge",
+      "description": null,
+      "format": null,
+      "weight": "14",
+      "vocabulary_machine_name": "attraction_taxonomy"
+    },
+    "location_attraction": {
+      "tid": "19",
+      "vid": "9",
+      "name": "Near the beach",
+      "description": "",
+      "format": "plain_text",
+      "weight": "0",
+      "vocabulary_machine_name": "location_attraction"
+    },
+    "direct_links": [],
+    "image_logo": [],
+    "gk_export": true,
+    "id": "567",
+    "type": "attraction",
+    "title": "Back Bay National Wildlife Refuge",
+    "created": "2014-05-13T11:38:23-04:00",
+    "changed": "2015-04-14T12:31:35-04:00",
+    "language": "und"
+  },
+  {
+    "image": [],
+    "address": "941 Laskin Road, Virginia Beach, VA",
+    "location_area": {
+      "tid": "1",
+      "vid": "2",
+      "name": "Ocean Front",
+      "description": "",
+      "format": "filtered_html",
+      "weight": "0",
+      "vocabulary_machine_name": "location_area"
+    },
+    "level": {
+      "tid": "3",
+      "vid": "3",
+      "name": "Free Listing",
+      "description": "",
+      "format": "filtered_html",
+      "weight": "0",
+      "vocabulary_machine_name": "level",
+      "field_rank": {
+        "und": [
+          {
+            "value": "1"
+          }
+        ]
+      }
+    },
+    "geo": {
+      "latlon": "36.856627000000,-75.988665000000"
+    },
+    "description": [],
+    "opening_days": "M-Sun",
+    "opening_hours": "Movie Showtimes",
+    "telephone": "(941) 223-0613",
+    "price_range": "$7-$10.50",
+    "kids_friendly": true,
+    "discount_image": [],
+    "attraction_category": {
+      "tid": "149",
+      "vid": "6",
+      "name": "Movies",
+      "description": null,
+      "format": null,
+      "weight": "7",
+      "vocabulary_machine_name": "attraction_taxonomy"
+    },
+    "location_attraction": {
+      "tid": "19",
+      "vid": "9",
+      "name": "Near the beach",
+      "description": "",
+      "format": "plain_text",
+      "weight": "0",
+      "vocabulary_machine_name": "location_attraction"
+    },
+    "direct_links": [],
+    "image_logo": [],
+    "gk_export": true,
+    "id": "537",
+    "type": "attraction",
+    "title": "Beach Movie Bistro",
+    "created": "2014-05-13T10:29:09-04:00",
+    "changed": "2015-04-14T12:31:35-04:00",
+    "language": "und"
+  },
+  {
+    "image": [],
+    "address": "829 Lynnhaven Parkway, Suite 116, Virginia Beach, VA",
+    "location_area": {
+      "tid": "1",
+      "vid": "2",
+      "name": "Ocean Front",
+      "description": "",
+      "format": "filtered_html",
+      "weight": "0",
+      "vocabulary_machine_name": "location_area"
+    },
+    "level": {
+      "tid": "3",
+      "vid": "3",
+      "name": "Free Listing",
+      "description": "",
+      "format": "filtered_html",
+      "weight": "0",
+      "vocabulary_machine_name": "level",
+      "field_rank": {
+        "und": [
+          {
+            "value": "1"
+          }
+        ]
+      }
+    },
+    "geo": {
+      "latlon": "36.813068000000,-76.070922000000"
+    },
+    "description": [],
+    "opening_days": "M-Sun",
+    "opening_hours": "M-Sat 10-8, Sun 11-6",
+    "telephone": "(757) 306-1334",
+    "price_range": null,
+    "kids_friendly": true,
+    "discount_image": [],
+    "attraction_category": {
+      "tid": "150",
+      "vid": "6",
+      "name": "Indoor Playground",
+      "description": null,
+      "format": null,
+      "weight": "32",
+      "vocabulary_machine_name": "attraction_taxonomy"
+    },
+    "location_attraction": {
+      "tid": "20",
+      "vid": "9",
+      "name": "A short drive",
+      "description": "",
+      "format": "plain_text",
+      "weight": "0",
+      "vocabulary_machine_name": "location_attraction"
+    },
+    "direct_links": [],
+    "image_logo": [],
+    "gk_export": true,
+    "id": "528",
+    "type": "attraction",
+    "title": "Bounce House",
+    "created": "2014-05-13T10:13:22-04:00",
+    "changed": "2015-04-14T12:31:35-04:00",
+    "language": "und"
+  },
+  {
+    "image": [],
+    "address": "2682 Dean Drive,suite A, Virginia Beach, VA 23452",
+    "location_area": {
+      "tid": "1",
+      "vid": "2",
+      "name": "Ocean Front",
+      "description": "",
+      "format": "filtered_html",
+      "weight": "0",
+      "vocabulary_machine_name": "location_area"
+    },
+    "level": {
+      "tid": "3",
+      "vid": "3",
+      "name": "Free Listing",
+      "description": "",
+      "format": "filtered_html",
+      "weight": "0",
+      "vocabulary_machine_name": "level",
+      "field_rank": {
+        "und": [
+          {
+            "value": "1"
+          }
+        ]
+      }
+    },
+    "geo": {
+      "latlon": "36.838484000000,-76.063074000000"
+    },
+    "description": [],
+    "opening_days": "M-Sun",
+    "opening_hours": "M-Sat 10-8 & Sun 10-6",
+    "telephone": "(757) 463-0100",
+    "price_range": null,
+    "kids_friendly": true,
+    "discount_image": [],
+    "attraction_category": {
+      "tid": "150",
+      "vid": "6",
+      "name": "Indoor Playground",
+      "description": null,
+      "format": null,
+      "weight": "32",
+      "vocabulary_machine_name": "attraction_taxonomy"
+    },
+    "location_attraction": {
+      "tid": "20",
+      "vid": "9",
+      "name": "A short drive",
+      "description": "",
+      "format": "plain_text",
+      "weight": "0",
+      "vocabulary_machine_name": "location_attraction"
+    },
+    "direct_links": [],
+    "image_logo": [],
+    "gk_export": true,
+    "id": "526",
+    "type": "attraction",
+    "title": "Bounceeez",
+    "created": "2014-05-13T10:10:53-04:00",
+    "changed": "2015-04-14T12:31:35-04:00",
+    "language": "und"
+  },
+  {
+    "image": {
+      "file": {
+        "uri": "http://virginia.mobyview.eu/api/entity_file/193",
+        "id": "193",
+        "resource": "file",
+        "uri_full": "http://virginia.mobyview.eu/sites/virginia.mobyview.eu/files/bgw_griffon_72dpi_6278.jpg",
+        "previews": []
+      }
+    },
+    "address": "1 Busch Gardens Blvd, Williamsburg, VA 23185",
+    "location_area": {
+      "tid": "1",
+      "vid": "2",
+      "name": "Ocean Front",
+      "description": "",
+      "format": "filtered_html",
+      "weight": "0",
+      "vocabulary_machine_name": "location_area"
+    },
+    "level": {
+      "tid": "83",
+      "vid": "3",
+      "name": "Upgrade 5",
+      "description": "",
+      "format": "plain_text",
+      "weight": "5",
+      "vocabulary_machine_name": "level",
+      "field_rank": {
+        "und": [
+          {
+            "value": "6"
+          }
+        ]
+      }
+    },
+    "geo": {
+      "latlon": "37.237033900000,-76.646206700000"
+    },
+    "description": {
+      "value": "Busch Gardens Williamsburg is a 383-acre theme park located in James City County, Virginia, about 3 miles southeast of Williamsburg, originally developed by Anheuser-Busch and currently owned by SeaWorld.",
+      "summary": ""
+    },
+    "opening_days": "M-Sun",
+    "opening_hours": "M-F 10a-6p, Sat 10a-10p, Sun: 10a-9p ",
+    "telephone": "(800) 343-7946",
+    "price_range": "$62-$82",
+    "kids_friendly": true,
+    "discount_image": {
+      "file": {
+        "uri": "http://virginia.mobyview.eu/api/entity_file/1303",
+        "id": "1303",
+        "resource": "file",
+        "uri_full": "http://virginia.mobyview.eu/sites/virginia.mobyview.eu/files/images_3.jpg",
+        "previews": []
+      }
+    },
+    "attraction_category": {
+      "tid": "144",
+      "vid": "6",
+      "name": "Amusement Park",
+      "description": null,
+      "format": null,
+      "weight": "24",
+      "vocabulary_machine_name": "attraction_taxonomy"
+    },
+    "location_attraction": {
+      "tid": "20",
+      "vid": "9",
+      "name": "A short drive",
+      "description": "",
+      "format": "plain_text",
+      "weight": "0",
+      "vocabulary_machine_name": "location_attraction"
+    },
+    "direct_links": [
+      "http://seaworldparks.com/en/buschgardens-williamsburg/"
+    ],
+    "image_logo": {
+      "file": {
+        "uri": "http://virginia.mobyview.eu/api/entity_file/192",
+        "id": "192",
+        "resource": "file",
+        "uri_full": "http://virginia.mobyview.eu/sites/virginia.mobyview.eu/files/Busch_Gardens_Williamsburg_logo.png",
+        "previews": []
+      }
+    },
+    "gk_export": true,
+    "id": "706",
+    "type": "attraction",
+    "title": "Busch Gardens Williamsburg",
+    "created": "2014-05-21T21:38:20-04:00",
+    "changed": "2015-04-14T12:31:35-04:00",
+    "language": "und"
+  },
+  {
+    "image": [],
+    "address": "583 Atlantic Ave., Fort Story, VA 23459",
+    "location_area": {
+      "tid": "1",
+      "vid": "2",
+      "name": "Ocean Front",
+      "description": "",
+      "format": "filtered_html",
+      "weight": "0",
+      "vocabulary_machine_name": "location_area"
+    },
+    "level": {
+      "tid": "3",
+      "vid": "3",
+      "name": "Free Listing",
+      "description": "",
+      "format": "filtered_html",
+      "weight": "0",
+      "vocabulary_machine_name": "level",
+      "field_rank": {
+        "und": [
+          {
+            "value": "1"
+          }
+        ]
+      }
+    },
+    "geo": {
+      "latlon": "36.925793000000,-76.008075000000"
+    },
+    "description": [],
+    "opening_days": "M-Sun",
+    "opening_hours": "M-Sun 10-4 or 5",
+    "telephone": "(757) 422-9421",
+    "price_range": "$5-$8",
+    "kids_friendly": true,
+    "discount_image": [],
+    "attraction_category": {
+      "tid": "158",
+      "vid": "6",
+      "name": "Historic Site",
+      "description": null,
+      "format": null,
+      "weight": "31",
+      "vocabulary_machine_name": "attraction_taxonomy"
+    },
+    "location_attraction": {
+      "tid": "19",
+      "vid": "9",
+      "name": "Near the beach",
+      "description": "",
+      "format": "plain_text",
+      "weight": "0",
+      "vocabulary_machine_name": "location_attraction"
+    },
+    "direct_links": [],
+    "image_logo": [],
+    "gk_export": true,
+    "id": "541",
+    "type": "attraction",
+    "title": "Cape Henry Lighthouse",
+    "created": "2014-05-13T10:36:02-04:00",
+    "changed": "2015-04-14T12:31:35-04:00",
+    "language": "und"
+  },
+  {
+    "image": [],
+    "address": "Cape Henry Memorial Virginia Beach, VA 23459",
+    "location_area": {
+      "tid": "1",
+      "vid": "2",
+      "name": "Ocean Front",
+      "description": "",
+      "format": "filtered_html",
+      "weight": "0",
+      "vocabulary_machine_name": "location_area"
+    },
+    "level": {
+      "tid": "3",
+      "vid": "3",
+      "name": "Free Listing",
+      "description": "",
+      "format": "filtered_html",
+      "weight": "0",
+      "vocabulary_machine_name": "level",
+      "field_rank": {
+        "und": [
+          {
+            "value": "1"
+          }
+        ]
+      }
+    },
+    "geo": {
+      "latlon": "36.928203000000,-76.008542000000"
+    },
+    "description": [],
+    "opening_days": "Daily",
+    "opening_hours": "Dawn-Dusk",
+    "telephone": null,
+    "price_range": "FREE",
+    "kids_friendly": true,
+    "discount_image": [],
+    "attraction_category": {
+      "tid": "158",
+      "vid": "6",
+      "name": "Historic Site",
+      "description": null,
+      "format": null,
+      "weight": "31",
+      "vocabulary_machine_name": "attraction_taxonomy"
+    },
+    "location_attraction": {
+      "tid": "19",
+      "vid": "9",
+      "name": "Near the beach",
+      "description": "",
+      "format": "plain_text",
+      "weight": "0",
+      "vocabulary_machine_name": "location_attraction"
+    },
+    "direct_links": [],
+    "image_logo": [],
+    "gk_export": true,
+    "id": "587",
+    "type": "attraction",
+    "title": "Cape Henry Memorial",
+    "created": "2014-05-18T12:26:42-04:00",
+    "changed": "2015-04-14T12:31:35-04:00",
+    "language": "und"
+  },
+  {
+    "image": [],
+    "address": "1606 Atlantic Ave, Virginia Beach, VA 23451",
+    "location_area": {
+      "tid": "1",
+      "vid": "2",
+      "name": "Ocean Front",
+      "description": "",
+      "format": "filtered_html",
+      "weight": "0",
+      "vocabulary_machine_name": "location_area"
+    },
+    "level": {
+      "tid": "3",
+      "vid": "3",
+      "name": "Free Listing",
+      "description": "",
+      "format": "filtered_html",
+      "weight": "0",
+      "vocabulary_machine_name": "level",
+      "field_rank": {
+        "und": [
+          {
+            "value": "1"
+          }
+        ]
+      }
+    },
+    "geo": {
+      "latlon": "36.844870000000,-75.974143000000"
+    },
+    "description": [],
+    "opening_days": "Fall Hrs: F-Sun",
+    "opening_hours": "Seasonal (Fall) F 6p, Sat 12n Sun 12n",
+    "telephone": "(757) 491-6876",
+    "price_range": "$8",
+    "kids_friendly": true,
+    "discount_image": [],
+    "attraction_category": {
+      "tid": "148",
+      "vid": "6",
+      "name": "Mini Golf",
+      "description": null,
+      "format": null,
+      "weight": "16",
+      "vocabulary_machine_name": "attraction_taxonomy"
+    },
+    "location_attraction": {
+      "tid": "19",
+      "vid": "9",
+      "name": "Near the beach",
+      "description": "",
+      "format": "plain_text",
+      "weight": "0",
+      "vocabulary_machine_name": "location_attraction"
+    },
+    "direct_links": [],
+    "image_logo": [],
+    "gk_export": true,
+    "id": "524",
+    "type": "attraction",
+    "title": "Captain Cline's Pirate Ghost Ride",
+    "created": "2014-05-13T10:08:46-04:00",
+    "changed": "2015-04-14T12:31:35-04:00",
+    "language": "und"
+  },
+  {
+    "image": [],
+    "address": "712 Bowling Green Court Virginia Beach, VA 23452",
+    "location_area": {
+      "tid": "1",
+      "vid": "2",
+      "name": "Ocean Front",
+      "description": "",
+      "format": "filtered_html",
+      "weight": "0",
+      "vocabulary_machine_name": "location_area"
+    },
+    "level": {
+      "tid": "3",
+      "vid": "3",
+      "name": "Free Listing",
+      "description": "",
+      "format": "filtered_html",
+      "weight": "0",
+      "vocabulary_machine_name": "level",
+      "field_rank": {
+        "und": [
+          {
+            "value": "1"
+          }
+        ]
+      }
+    },
+    "geo": {
+      "latlon": "36.815757000000,-76.076691000000"
+    },
+    "description": [],
+    "opening_days": "Daily",
+    "opening_hours": "10am, 12:15am, 4:45pm & 7pm",
+    "telephone": "757-305-9700",
+    "price_range": "FREE to $26",
+    "kids_friendly": true,
+    "discount_image": [],
+    "attraction_category": {
+      "tid": "145",
+      "vid": "6",
+      "name": "Amusement",
+      "description": null,
+      "format": null,
+      "weight": "39",
+      "vocabulary_machine_name": "attraction_taxonomy"
+    },
+    "location_attraction": {
+      "tid": "19",
+      "vid": "9",
+      "name": "Near the beach",
+      "description": "",
+      "format": "plain_text",
+      "weight": "0",
+      "vocabulary_machine_name": "location_attraction"
+    },
+    "direct_links": [],
+    "image_logo": [],
+    "gk_export": true,
+    "id": "588",
+    "type": "attraction",
+    "title": "Captain Jack's Pirate Ship Adventures",
+    "created": "2014-05-18T12:33:01-04:00",
+    "changed": "2015-04-14T12:31:36-04:00",
+    "language": "und"
+  },
+  {
+    "image": [],
+    "address": "20th St. and Atlantic Ave., Virginia Beach",
+    "location_area": {
+      "tid": "1",
+      "vid": "2",
+      "name": "Ocean Front",
+      "description": "",
+      "format": "filtered_html",
+      "weight": "0",
+      "vocabulary_machine_name": "location_area"
+    },
+    "level": {
+      "tid": "3",
+      "vid": "3",
+      "name": "Free Listing",
+      "description": "",
+      "format": "filtered_html",
+      "weight": "0",
+      "vocabulary_machine_name": "level",
+      "field_rank": {
+        "und": [
+          {
+            "value": "1"
+          }
+        ]
+      }
+    },
+    "geo": {
+      "latlon": "36.848276000000,-75.975056000000"
+    },
+    "description": [],
+    "opening_days": "Daily",
+    "opening_hours": "7:30a-Midnight",
+    "telephone": "(757) 437-8888",
+    "price_range": null,
+    "kids_friendly": true,
+    "discount_image": [],
+    "attraction_category": {
+      "tid": "173",
+      "vid": "6",
+      "name": "Recreation",
+      "description": null,
+      "format": null,
+      "weight": "4",
+      "vocabulary_machine_name": "attraction_taxonomy"
+    },
+    "location_attraction": {
+      "tid": "19",
+      "vid": "9",
+      "name": "Near the beach",
+      "description": "",
+      "format": "plain_text",
+      "weight": "0",
+      "vocabulary_machine_name": "location_attraction"
+    },
+    "direct_links": [],
+    "image_logo": [],
+    "gk_export": true,
+    "id": "589",
+    "type": "attraction",
+    "title": "Cherie's Bicycle and Blade Rentals",
+    "created": "2014-05-18T12:37:28-04:00",
+    "changed": "2015-04-14T12:31:36-04:00",
+    "language": "und"
+  }
+]

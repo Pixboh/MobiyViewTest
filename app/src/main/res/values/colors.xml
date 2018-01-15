@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#4FB5E5</color>
+    <color name="colorPrimaryDark">#4fa9e5</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="dataTitle">#3F484E</color>
+    <color name="locationArea">#7D8184</color>
+    <color name="distance">#7D8184</color>
+    <color name="categorie">#7D8184</color>
+    <color name="prix">#3F484E</color>
+    <color name="header">#4FB5E5</color>
+    <color name="separator">#E6E6E6</color>
+    <color name="description">#7D8184</color>
+    <color name="background_material_dark">#f7f6f6</color>
+    <color name="white">#ffffff</color>
+</resources>
